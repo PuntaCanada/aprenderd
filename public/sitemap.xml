@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aprenderd.pages.dev/es/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aprenderd.pages.dev/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aprenderd.pages.dev/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aprenderd.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aprenderd.pages.dev/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aprenderd.pages.dev/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aprenderd.pages.dev/" />
+  </url>
+  <url>
+    <loc>https://aprenderd.pages.dev/de/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aprenderd.pages.dev/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aprenderd.pages.dev/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aprenderd.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aprenderd.pages.dev/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aprenderd.pages.dev/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aprenderd.pages.dev/" />
+  </url>
+  <url>
+    <loc>https://aprenderd.pages.dev/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aprenderd.pages.dev/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aprenderd.pages.dev/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aprenderd.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aprenderd.pages.dev/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aprenderd.pages.dev/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aprenderd.pages.dev/" />
+  </url>
+  <url>
+    <loc>https://aprenderd.pages.dev/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aprenderd.pages.dev/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aprenderd.pages.dev/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aprenderd.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aprenderd.pages.dev/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aprenderd.pages.dev/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aprenderd.pages.dev/" />
+  </url>
+  <url>
+    <loc>https://aprenderd.pages.dev/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aprenderd.pages.dev/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aprenderd.pages.dev/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aprenderd.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aprenderd.pages.dev/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aprenderd.pages.dev/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aprenderd.pages.dev/" />
+  </url>
+</urlset>
